@@ -1,7 +1,7 @@
 # NETWORK DIAGRAM USING CISCO PACKET TRACER
 
 ## Members:
-- JM Bualan
+- Bualan
 - Parba
 - Delacruz
 - Jocelyn Pantalan
