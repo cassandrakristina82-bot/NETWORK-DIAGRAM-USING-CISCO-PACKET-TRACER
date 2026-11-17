@@ -4,7 +4,7 @@
 - JM Bualan
 - Parba
 - Delacruz
-- Jenalyn Pantalan
+- Jocelyn Pantalan
 
 ## Description:
 A simple LAN network design with routers, switches, and PCs configured and tested in Packet Tracer.
